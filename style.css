@@ -1,0 +1,12 @@
+body {
+    background-color:whitesmoke;
+    display: flexbox;
+  }
+
+  .Box-Div{
+    border: solid 2px black; 
+    width: 57%; 
+    height: 400px; 
+    margin:0 auto; 
+    background: powderblue;
+  }
